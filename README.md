@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/qjCJsaY.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -41,6 +41,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 
 Due to the late start and urgent deadline, I was unable to successfully implement the bonus features that I wanted to add including the working 'Settings' page and the tip splitting feature.
+
+Furthermore, this is my first time working with Swift and Storyboard, so the learning curve for the technical part of these upcoming projects is there for me to overcome.
 
 ## License
 
